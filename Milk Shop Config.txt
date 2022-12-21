@@ -1,1 +1,3 @@
 {"autoBeg":true,"serverHopDelay":30,"begMessage":["\"Best Milk Ever\" -Dad","\"I found the best milk son!\" -Dad","\"Buy the milk yourself!\" -Dad"],"thanksMessage":["\"I'm back Son!\" -Dad","\"\tI'm glad you did it son!\" -Dad","Thanks","TYSM <3"],"hexBox":"#32CD32","signHexBox":"#ffffff","autoThanks":true,"vcServer":false,"serverHopToggle":true,"goalBox":5,"begDelay":300,"webhookToggle":true,"thanksDelay":3,"signText":"your text here","webhookBox":"","signUpdateToggle":false,"textUpdateDelay":30,"render":false,"textUpdateToggle":true,"fpsLimit":31,"signToggle":false,"customBoothText":"Milk Shop!\nGOAL : $C/$G","danceChoice":"1"}
+
+--iPig#9689
