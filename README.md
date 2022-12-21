@@ -1,7 +1,7 @@
 # Configs for Capysploit's PLS DONATE Script
 For more support:
 https://discord.gg/gEbW5kCX9v
-# How to use a config(Free Version)
+# How to use a config
 Go to your executor's workspace folder
 ![image](https://user-images.githubusercontent.com/49023948/208844577-8c82fbec-0728-4c1a-a268-4c1c83b62cc6.png)
 
@@ -11,9 +11,7 @@ Drag the config you downloaded into the folder
 
 
 Rename the config to "plsdonatesettings"
-![image](https://user-images.githubusercontent.com/49023948/208844661-865ff8cc-9b34-4d2a-8860-03e21069a863.png)
-# How to use a config(Premium version)  
-I'll make it when i bought premium
+![image](https://user-images.githubusercontent.com/49023948/208844661-865ff8cc-9b34-4d2a-8860-03e21069a863.png)  
 # Supported Executor(Known)
 Synapse X - https://x.synapse.to - Paid  
 Krnl - https://krnl.place - Free  
