@@ -12,7 +12,7 @@ Drag the config you downloaded into the folder
 
 Rename the config to "plsdonatesettings"
 ![image](https://user-images.githubusercontent.com/49023948/208844661-865ff8cc-9b34-4d2a-8860-03e21069a863.png)
-#How to use a config(Premium version)  
+# How to use a config(Premium version)  
 I'll make it when i bought premium
 # Supported Executor(Known)
 Synapse X - https://x.synapse.to - Paid  
