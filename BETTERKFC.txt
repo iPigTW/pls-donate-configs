@@ -1,3 +1,5 @@
 {"reex":true,"customBoothText":"KFC","render":false,"serverHopToggle":true,"fontFace":"FredokaOne","serverHopDelay":20,"thanksMessage":["Thank you Heres A Free Cookie 🍪.","Thanks! Heres A Free Cookie 🍪.","ty :) Heres A Free Cookie 🍪.","tysm! Heres A Free Cookie 🍪.","Thanks! Heres A Free Cookie 🍪.","Thanks For Shopping At KFC Heres A Free Cookie 🍪."],"goalBox":5,"begDelay":30,"anonymous":false,"signUpdateToggle":false,"colorBox":"1, 0, 0","signToggle":false,"signColorBox":"1, 1, 1","fontSize":100,"hexBox":"#32CD32","signHexBox":"#ffffff","autoThanks":true,"webhookshop":true,"disableFont":false,"vcServer":false,"shortMessage":false,"boothPosition":-6,"autoBeg":true,"thanksDelay":2,"staffHop":true,"altServers":true,"begMessage":["Come stop by and get some Kentucky Fried Chicken 🍗!","Best Chicken In The Market 🍗!","Welcome To KFC 🍗!","No Karens In Here 🍗!","Best Cookies In The Market 🍪!","Cookies For Every Order 🍪!"],"webhookToggle":true,"signText":"your text here","webhookBox":"","randomToggle":false,"textUpdateToggle":true,"fpsLimit":60,"censorHop":false,"textUpdateDelay":8,"danceChoice":"1"}
 
 -- Nebula Was Here Owo 
+
+--Nebula#9999
