@@ -41,10 +41,10 @@ And it will open a link and download a text file like this
 ![image](https://user-images.githubusercontent.com/49023948/208847548-37f8a94c-59a9-454c-abcb-97a165e702e5.png)  
 There should be a code in there  
 ![image](https://user-images.githubusercontent.com/49023948/208847657-0b545372-9a9a-4111-b11a-8b1cbfdd135e.png)  
-Go in to one of the channels and send **!verify (the key you just copied)**  
-![image](https://user-images.githubusercontent.com/49023948/208847995-19bf3a0e-f020-40de-a68f-5931f32df8c9.png)
-You should get a dm from the bot 
-![image](https://user-images.githubusercontent.com/49023948/208848165-31f68456-3c88-4dd3-9cf7-d55e8796acef.png)  
+Go in to one of the channels and send **/verify (the key you just copied)**  
+![image](https://user-images.githubusercontent.com/49023948/208942098-9a2b2cfb-c453-4c0b-8405-27426ee3a68a.png)  
+And you should see the key appears  
+![image](https://user-images.githubusercontent.com/49023948/208942402-35691520-a72f-43b7-9f86-8e88873b642f.png)
 Copy the key and go back to your game and paste it  
 Boom! It's that easy!
 
