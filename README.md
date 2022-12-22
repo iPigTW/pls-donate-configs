@@ -21,6 +21,8 @@ Fluxus - https://fluxteam.net - Free
 # How to check & transfer your robux from your alts fast?
 Download this tool:  
 https://github.com/tzechco/pls-donate-utils
+## Tutorial on how to use it
+https://youtu.be/mx8PXyVQXn4
 # How to get key
 Go to #key channel
 ![image](https://user-images.githubusercontent.com/49023948/208846525-339c4758-121f-42ac-b731-e0b20d22170d.png)  
