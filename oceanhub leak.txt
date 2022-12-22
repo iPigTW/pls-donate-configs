@@ -1,0 +1,135 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Window = Library.CreateLib("Ocean Hub", "Ocean")
+
+if game.PlaceId == 8737602449 then
+-- MAIN
+local Main = Window:NewTab("Main")
+local MainSection = Main:NewSection("Main")
+
+
+MainSection:NewButton("Infinite Yield", "is Really Good Script. For Trolling!", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+end)
+
+MainSection:NewToggle("Super Human", "Go Fast And Jump High.", function(state)
+    if state then
+        game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = 120
+        game.Players.LocalPlayer.Character.Humanoid.JumpPower = 120
+else
+        game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = 16
+        game.Players.LocalPlayer.Character.Humanoid.JumpPower = 50
+        end
+end)
+    
+    MainSection:NewButton("Pls Donate tzech", "is Really Good Script. For AutoFarming!", function()
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/heqds/Pls-Donate-Auto-Farm-Script/main/plsdonate.lua'))()
+    end)
+    
+    MainSection:NewButton("Pls Donate tzech (Old)", "is Really Good Script. For AutoFarm!", function()
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/CF-Trail/tzechco-PlsDonateAutofarmBackup/main/autofarm'))()
+    end)
+    
+    MainSection:NewButton("Pls Donate Pearl Hub", "is Really Good Script. For AFK Farm!", function()
+        loadstring(game:HttpGet('https://ppearl.vercel.app'))()
+    end)
+
+    MainSection:NewButton("Anti AFK", "is Really Good Script. For Being AFK!", function()
+        loadstring(game:HttpGet('https://pastebin.com/Btt5A3CC'))()
+    end)
+
+    
+    
+
+    --LOCAL PLAYER
+    local Player = Window:NewTab("Player")
+    local PlayerSection = Player:NewSection("Player")
+
+    PlayerSection:NewSlider("Walkspeed", "SPEED!!", 500, 16, function(s) -- 500 (MaxValue) | 0 Min Value
+        game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = s
+    end)
+
+    PlayerSection:NewSlider("JumpPower", "JUMP HIGH!!", 350, 50, function(s) -- 500 (MaxValue) | 0 Min Value
+        game.Players.LocalPlayer.Character.Humanoid.JumpPower = s
+    end)
+
+    PlayerSection:NewButton("Reset WS/JP", "Resets To All Defaults.", function()
+        game.Players.LocalPlayer.Character.Humanoid.JumpPower = 50
+        game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = 16
+    end)
+    
+    --Other
+    local Other = Window:NewTab("Other")
+    local OtherSection = Other:NewSection("Other")
+
+    OtherSection:NewButton("Soon", "SOON", function()
+        loadstring(game:HttpGet('https://'))()
+end)
+elseif game.PlaceId == 7453798168 then
+    -- ANOTHER GAME
+    
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Window = Library.CreateLib("Ocean Hub", "Ocean")
+
+-- MAIN
+local Main = Window:NewTab("Main")
+local MainSection = Main:NewSection("Main")
+
+
+MainSection:NewButton("Infinite Yield", "is Really Good Script. For Trolling!", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+end)
+
+MainSection:NewToggle("Super Human", "Go Fast And Jump High.", function(state)
+    if state then
+        game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = 120
+        game.Players.LocalPlayer.Character.Humanoid.JumpPower = 120
+else
+        game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = 16
+        game.Players.LocalPlayer.Character.Humanoid.JumpPower = 50
+        end
+end)
+    
+    MainSection:NewButton("Pls Donate tzech", "is Really Good Script. For AutoFarming!", function()
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/heqds/Pls-Donate-Auto-Farm-Script/main/plsdonate.lua'))()
+    end)
+    
+    MainSection:NewButton("Pls Donate tzech (Old)", "is Really Good Script. For AutoFarm!", function()
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/CF-Trail/tzechco-PlsDonateAutofarmBackup/main/autofarm'))()
+    end)
+    
+    MainSection:NewButton("Pls Donate Pearl Hub", "is Really Good Script. For AFK Farm!", function()
+        loadstring(game:HttpGet('https://ppearl.vercel.app'))()
+    end)
+
+    MainSection:NewButton("Anti AFK", "is Really Good Script. For Being AFK!", function()
+        loadstring(game:HttpGet('https://pastebin.com/Btt5A3CC'))()
+    end)
+
+    
+    
+
+    --LOCAL PLAYER
+    local Player = Window:NewTab("Player")
+    local PlayerSection = Player:NewSection("Player")
+
+    PlayerSection:NewSlider("Walkspeed", "SPEED!!", 500, 16, function(s) -- 500 (MaxValue) | 0 Min Value
+        game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = s
+    end)
+
+    PlayerSection:NewSlider("JumpPower", "JUMP HIGH!!", 350, 50, function(s) -- 500 (MaxValue) | 0 Min Value
+        game.Players.LocalPlayer.Character.Humanoid.JumpPower = s
+    end)
+
+    PlayerSection:NewButton("Reset WS/JP", "Resets To All Defaults.", function()
+        game.Players.LocalPlayer.Character.Humanoid.JumpPower = 50
+        game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = 16
+    end)
+    
+    --Other
+    local Other = Window:NewTab("Other")
+    local OtherSection = Other:NewSection("Other")
+
+    OtherSection:NewButton("Soon", "SOON", function()
+        loadstring(game:HttpGet('https://'))()
+    end)
+    end
