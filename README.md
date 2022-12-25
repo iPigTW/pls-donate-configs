@@ -30,7 +30,7 @@ Fluxus - https://fluxteam.net - Free
 (Possibly) Script-Ware - https://script-ware.com - Paid
 # How to check & transfer your robux from your alts fast?
 Download this tool:  
-https://github.com/tzechco/pls-donate-utils
+https://link-target.net/201315/pls-donate-utilities
 ## Tutorial on how to use it
 https://youtu.be/mx8PXyVQXn4
 # How to get key
