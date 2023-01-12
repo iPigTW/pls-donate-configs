@@ -1,4 +1,4 @@
-# Best configs for Capysploit's PLS DONATE Script
+# Best configs for Tzech's PLS DONATE Script
 For more support:
 https://discord.gg/gEbW5kCX9v
 # What config do you recommend?
